@@ -9,11 +9,18 @@ h1 {
     border: 2px solid orange;
     border-radius: 5px;
     font-size: 22px;
-    padding: 10px
+    padding: 10px;
+    text-shadow: 3px -4px 5px green
 }
 
 h3{
     margin-top: 100px;
     margin-left: 100px;
     margin-bottom: 200px;
+}
+
+.myclass{
+    font-style: oblique;
+    text-align: center;
+    font-size: 24px;
 }
