@@ -1,0 +1,3 @@
+(venv) PS G:\piton\python4\django>  django-admin startproject advertisements
+(venv) PS G:\piton\python4\django> cd advertisements
+(venv) PS G:\piton\python4\django\advertisements> piton manage.py runserver
